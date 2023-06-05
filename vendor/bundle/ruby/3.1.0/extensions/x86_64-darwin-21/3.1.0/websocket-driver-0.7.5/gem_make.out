@@ -1,0 +1,15 @@
+current directory: /Users/suzukikoudai/workspace/runteq/練習/rails_scaffold/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/suzukikoudai/.rbenv/versions/3.1.2/bin/ruby -I /Users/suzukikoudai/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20230605-45318-4ydiwm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/suzukikoudai/workspace/runteq/練習/rails_scaffold/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/suzukikoudai/workspace/runteq/練習/rails_scaffold/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/suzukikoudai/workspace/runteq/練習/rails_scaffold/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230605-45318-wr6m1d
